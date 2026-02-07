@@ -15,6 +15,9 @@
 • <a href="https://github.com/ayushsingh82/StableYield">StableYield</a>  
 <sub>StableYield is a fully collateralized stablecoin engine focused on capital efficiency, using a deterministic slashing-based guarantee model to enable optional yield strategies while maintaining peg stability and on-chain transparency.</sub>
 
+• <a href="https://github.com/ayushsingh82/IncoPay">IncoPay</a>
+<sub>Private X402-style payments on Solana using Inco Network. Enables confidential SPL token transfers with message-based authorization and facilitator-paid gas via Inco Lightning, with Kora used only as a fee-payer and transaction submitter—resulting in a gasless, one-sign private payment flow.</sub>
+
 • <a href="https://github.com/ayushsingh82/AgentBazaar">AgentBazaar</a>  
 <sub>Decentralized AI agent marketplace powered by ERC8004, enabling discovery, monetization, and orchestration of autonomous agents with programmable access control and powered by x402 payments.</sub>
 
