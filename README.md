@@ -47,6 +47,14 @@
 | [x402-sessions](https://github.com/x402-sessions) | Session-based x402 payments on Stellar — 1 signature = N settlements with on-chain enforced spending limits via Stellar Asset Contracts | Stellar, SAC, x402 |
 | [AgentBazaar](https://github.com/ayushsingh82/AgentBazaar) | Decentralized AI agent marketplace with x402 micropayments, on-chain ratings, and agent reputation system | ERC-8004, X402, Solidity |
 
+### analytics
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [MarketMind](https://github.com/ayushsingh82/MarketMind) | AI market intelligence engine — ingests SoSoValue + SoDEX signals, scores cross-source disagreement, ranks narrative momentum, and explains market moves with citations | Next.js, SoSoValue API, SoDEX |
+| [DePinsight](https://github.com/ayushsingh82/DePinsight) | Comprehensive DePIN analytics dashboard — token metrics, revenue tracking, Dune & DefiLlama integrations, and network growth analytics | Next.js, Dune API, DefiLlama, NodeOps |
+| [InsightOps](https://github.com/ayushsingh82/Insight-Ops) | AVS and operator tracking platform — TVL, metadata, and operator–AVS relationship mapping via a custom plugin-eigenavs built on the Dune API | TypeScript, Dune API, EigenLayer |
+
 ### stablecoin & privacy
 
 | Project | Description | Tech |
