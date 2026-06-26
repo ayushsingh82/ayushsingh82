@@ -33,34 +33,50 @@
 
 ### cross chain
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [NeXchange](https://github.com/ayushsingh82/Nexchange) | Intent-based cross-chain execution protocol — swap & stake across Solana, ETH, and NEAR from a single NEAR wallet, no bridging | NEAR, Solana, Ethereum, Intents |
-| [AshWallet](https://github.com/ayushsingh82/AshWallet) | Anonymous multi-chain wallets via NEAR MPC chain signatures — derive unlinkable addresses across 5 chains with no seed phrases | NEAR MPC, Solana, ETH, BTC, Cosmos |
+| Project | Description |
+|---------|-------------|
+| [NeXchange](https://github.com/ayushsingh82/Nexchange) | Intent-based cross-chain execution protocol — swap & stake across Solana, ETH, and NEAR from a single NEAR wallet, no bridging |
+| [AshWallet](https://github.com/ayushsingh82/AshWallet) | Anonymous multi-chain wallets via NEAR MPC chain signatures — derive unlinkable addresses across 5 chains with no seed phrases |
 
 ### x402 & agentic payments
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [AgentCanvas](https://github.com/ayushsingh82/AgentCanvas) | No-code visual agent builder — drag-and-drop interface with automatic CI/CD and Cloudflare Workers deployment | Null Shot, Cloudflare Workers, TypeScript |
-| [IncoPay](https://github.com/IncoPay/IncoPay) | Private session-based x402 payments on Solana — sign once, settle many, with confidential SPL transfers and facilitator-paid gas | Solana, Inco, x402, TypeScript |
-| [x402-sessions](https://github.com/x402-sessions) | Session-based x402 payments on Stellar — 1 signature = N settlements with on-chain enforced spending limits via Stellar Asset Contracts | Stellar, SAC, x402 |
-| [AgentBazaar](https://github.com/ayushsingh82/AgentBazaar) | Decentralized AI agent marketplace with x402 micropayments, on-chain ratings, and agent reputation system | ERC-8004, X402, Solidity |
+| Project | Description |
+|---------|-------------|
+| [AgentCanvas](https://github.com/ayushsingh82/AgentCanvas) | No-code visual agent builder — drag-and-drop interface with automatic CI/CD and Cloudflare Workers deployment |
+| [IncoPay](https://github.com/IncoPay/IncoPay) | Private session-based x402 payments on Solana — sign once, settle many, with confidential SPL transfers and facilitator-paid gas |
+| [x402-sessions](https://github.com/x402-sessions) | Session-based x402 payments on Stellar — 1 signature = N settlements with on-chain enforced spending limits via Stellar Asset Contracts |
+| [AgentBazaar](https://github.com/ayushsingh82/AgentBazaar) | Decentralized AI agent marketplace with x402 micropayments, on-chain ratings, and agent reputation system |
+| [POW](https://github.com/ayushsingh82/POW) | Autonomous research funding agent — backers escrow ETH, EigenAI executes the research program inside TEE, and funds release only when cryptographic proof is submitted |
+
+### mcp
+
+| Project | Description |
+|---------|-------------|
+| [BagsMCP](https://github.com/ayushsingh82/BagsMCP) | TypeScript MCP server exposing 22 Bags APIs as model-callable tools — launches, fees, pools, partner analytics, and swap tx builders for Cursor and Claude |
+| [Pacifica-MCP](https://github.com/ayushsingh82/Pacifica-MCP) | AI-native analytics layer over real-time market data — funding arbitrage, momentum, orderbook imbalance, and composite trade signals via a unified MCP interface |
+| [Finbro](https://github.com/ayushsingh82/Finbro) | MCP-based financial intelligence tool |
 
 ### analytics
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [MarketMind](https://github.com/ayushsingh82/MarketMind) | AI market intelligence engine — ingests SoSoValue + SoDEX signals, scores cross-source disagreement, ranks narrative momentum, and explains market moves with citations | Next.js, SoSoValue API, SoDEX |
-| [DePinsight](https://github.com/ayushsingh82/DePinsight) | Comprehensive DePIN analytics dashboard — token metrics, revenue tracking, Dune & DefiLlama integrations, and network growth analytics | Next.js, Dune API, DefiLlama, NodeOps |
-| [InsightOps](https://github.com/ayushsingh82/Insight-Ops) | AVS and operator tracking platform — TVL, metadata, and operator–AVS relationship mapping via a custom plugin-eigenavs built on the Dune API | TypeScript, Dune API, EigenLayer |
+| Project | Description |
+|---------|-------------|
+| [MarketMind](https://github.com/ayushsingh82/MarketMind) | AI market intelligence engine — ingests SoSoValue + SoDEX signals, scores cross-source disagreement, ranks narrative momentum, and explains market moves with citations |
+| [DePinsight](https://github.com/ayushsingh82/DePinsight) | Comprehensive DePIN analytics dashboard — token metrics, revenue tracking, Dune & DefiLlama integrations, and network growth analytics |
+| [InsightOps](https://github.com/ayushsingh82/Insight-Ops) | AVS and operator tracking platform — TVL, metadata, and operator–AVS relationship mapping via a custom plugin-eigenavs built on the Dune API |
 
-### stablecoin & privacy
+### privacy
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [StableYield](https://github.com/ayushsingh82/StableYield) | Fully collateralized stablecoin engine with yield-optional strategies and deterministic slashing-based enforcement | Solidity, EVM |
-| [POL-Stealth](https://github.com/ayushsingh82/POL-Stealth) | Private transactions on Polygon via ERC-5564 stealth addresses — one-time keys, ECDH, and unlinkable fund reception | Solidity, ERC-5564, Polygon |
+| Project | Description |
+|---------|-------------|
+| [SilentBid](https://github.com/ayushsingh82/Silentbid) | Sealed-bid token launches on Uniswap CCA — bids stay private via EIP-712 commitments and Chainlink CRE Confidential HTTP, zero front-running or MEV sniping |
+| [MNT-Stealth](https://github.com/ayushsingh82/MNT-Stealth) | Private transactions on Mantle via ERC-5564 stealth addresses — ECDH one-time keys, ephemeral keys, and unlinkable fund reception |
+| [POL-Stealth](https://github.com/ayushsingh82/POL-Stealth) | Private transactions on Polygon via ERC-5564 stealth addresses — one-time keys, ECDH, and unlinkable fund reception |
+
+### stablecoin
+
+| Project | Description |
+|---------|-------------|
+| [StableYield](https://github.com/ayushsingh82/StableYield) | Fully collateralized stablecoin engine with yield-optional strategies and deterministic slashing-based enforcement |
 
 ---
 
