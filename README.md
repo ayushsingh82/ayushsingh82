@@ -3,33 +3,46 @@
 </div>  
 
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">A passionate Full Stack Blockchain Developer from India.</h3>
+<h3 align="center">Blockchain Engineer & Product Designer · Privacy-first Web3 + AI Agent Systems</h3>
 
-- 🌱 I’m currently learning Web3 , blockchain
-- 📝 I regularly write articles on https://hashnode.com/@ayush123
-- 💬 Ask me about - Frontend Development , Smart-Contracts , FHE , ZK , TEE , AVS , Intents , X402 , Ai- agents
-- 📫 For query reach me out - ayushsinghmi711@gmail.com
+- 🔗 Blockchain engineer & product designer building privacy-first Web3 + AI agent systems across multiple chains
+- 🏆 20+ hackathon wins specializing in AI agent reputation (ERC-8004) and verifiable compute
+- 💳 Building agentic payments infrastructure, autonomous agent orchestration, and privacy-focused dApps
+- 🔐 Deep expertise in ZK, FHE, and TEE — engineering privacy into every layer of the stack
+- 🎨 Bridging engineering + design to ship secure, scalable products that make complex crypto/AI intuitive
+- 💬 Ask me about — Smart Contracts, FHE, ZK, TEE, AVS, Intents, X402, AI Agents
+- 📫 Reach me at — ayushsinghmi711@gmail.com
 
-<h3 align="left">Some of my projects →</h3>
+---
 
-• <a href="https://github.com/ayushsingh82/StableYield">StableYield</a>  
-<sub>StableYield is a fully collateralized stablecoin engine focused on capital efficiency, using a deterministic slashing-based guarantee model to enable optional yield strategies while maintaining peg stability and on-chain transparency.</sub>
+### What I'm doing
 
-• <a href="https://github.com/ayushsingh82/IncoPay">IncoPay</a>
-<sub>Private X402-style payments on Solana using Inco Network. Enables confidential SPL token transfers with message-based authorization and facilitator-paid gas via Inco Lightning, with Kora used only as a fee-payer and transaction submitter—resulting in a gasless, one-sign private payment flow.</sub>
+| | Area | Details |
+|---|---|---|
+| ⛓ | **Building Projects** | Working on crypto projects, agentic payments, agent reputation layers, and privacy-focused Web3 systems |
+| ✍️ | **Writing & Content** | Writing threads, blogs, and tutorials on different tech, sharing knowledge and insights with the community |
+| 🔐 | **Learning Cryptography** | Deepening expertise in FHE, ZK, and TEE to build more secure and privacy-preserving applications |
 
-• <a href="https://github.com/ayushsingh82/AgentBazaar">AgentBazaar</a>  
-<sub>Decentralized AI agent marketplace powered by ERC8004, enabling discovery, monetization, and orchestration of autonomous agents with programmable access control and powered by x402 payments.</sub>
+---
 
-• <a href="https://github.com/ayushsingh82/POL-Stealth">POL-Stealth</a>  
-<sub>Privacy-preserving payment and stealth transaction system powered by fluid-kEY</sub>
+### Ecosystem Worked With / Built On
 
-• <a href="https://github.com/ayushsingh82/AgentCanvas">AgentCanvas</a>  
-<sub>Agent Canvas is a visual orchestration platform for building, composing, and deploying AI agents using a drag-and-drop interface. Built on the Null Shot framework, it offers automated CI/CD pipelines, Cloudflare Workers deployment, and modular on-chain tools—enabling users to launch production-ready agents in minutes.</sub>
+[Ethereum](https://ethereum.org) · [Polygon](https://polygon.technology) · [Near](https://near.org) · [Solana](https://solana.com) · [Mantle](https://www.mantle.xyz) · [Base](https://base.org) · [Optimism](https://www.optimism.io) · [Avalanche](https://www.avax.network) · [Inco](https://inco.org) · [Fhenix](https://fhenix.io) · [Educhain](https://www.opencampus.xyz) · [Movement Labs](https://movementlabs.xyz) · [Sui](https://sui.io) · [Aptos](https://aptoslabs.com) · [The Graph](https://thegraph.com) · [Oraichain](https://orai.io) · [Chainlink](https://chain.link) · [Celo](https://celo.org) · [Polkadot](https://polkadot.network) · [Scroll](https://scroll.io) · [ENS](https://ens.domains) · [Zama](https://zama.ai) · [Pyth](https://pyth.network)
 
-• <a href="https://github.com/ayushsingh82/Insight-Ops">InsightOps</a>  
-<sub>InsightOps is a blockchain analytics platform for tracking Operators, Active Verification Services (AVS), and their relationships. It leverages the Dune API via the plugin-eigenavs to surface real-time TVL, metadata, and operator–AVS mappings through a unified dashboard.</sub>
+---
 
+### Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [StableYield](https://github.com/ayushsingh82/StableYield) | Fully collateralized stablecoin engine with deterministic slashing-based guarantees and optional yield strategies | Solidity, EVM |
+| [IncoPay](https://github.com/ayushsingh82/IncoPay) | Private X402-style payments on Solana using Inco Network — confidential SPL token transfers with gasless one-sign flow | Solana, Inco, TypeScript |
+| [AgentBazaar](https://github.com/ayushsingh82/AgentBazaar) | Decentralized AI agent marketplace powered by ERC-8004 with programmable access control and x402 payments | ERC-8004, X402, Solidity |
+| [POL-Stealth](https://github.com/ayushsingh82/POL-Stealth) | Privacy-preserving payment and stealth transaction system powered by fluid-kEY | Solidity, EVM |
+| [AgentCanvas](https://github.com/ayushsingh82/AgentCanvas) | Visual drag-and-drop orchestration platform for building and deploying AI agents with automated CI/CD and Cloudflare Workers | TypeScript, Cloudflare Workers |
+| [InsightOps](https://github.com/ayushsingh82/Insight-Ops) | Blockchain analytics platform for tracking Operators, AVS, and EigenLayer relationships via Dune API | TypeScript, Dune API |
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayushsingh82&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
