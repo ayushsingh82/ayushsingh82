@@ -54,15 +54,15 @@
 |---------|-------------|
 | [BagsMCP](https://github.com/ayushsingh82/BagsMCP) | TypeScript MCP server exposing 22 Bags APIs as model-callable tools — launches, fees, pools, partner analytics, and swap tx builders for Cursor and Claude |
 | [Pacifica-MCP](https://github.com/ayushsingh82/Pacifica-MCP) | AI-native analytics layer over real-time market data — funding arbitrage, momentum, orderbook imbalance, and composite trade signals via a unified MCP interface |
-| [Finbro](https://github.com/ayushsingh82/Finbro) | MCP-based financial intelligence tool |
 
 ### analytics
 
 | Project | Description |
 |---------|-------------|
 | [MarketMind](https://github.com/ayushsingh82/MarketMind) | AI market intelligence engine — ingests SoSoValue + SoDEX signals, scores cross-source disagreement, ranks narrative momentum, and explains market moves with citations |
-| [DePinsight](https://github.com/ayushsingh82/DePinsight) | Comprehensive DePIN analytics dashboard — token metrics, revenue tracking, Dune & DefiLlama integrations, and network growth analytics |
-| [InsightOps](https://github.com/ayushsingh82/Insight-Ops) | AVS and operator tracking platform — TVL, metadata, and operator–AVS relationship mapping via a custom plugin-eigenavs built on the Dune API |
+| [DePinsight](https://github.com/ayushsingh82/DePinsight) | Comprehensive DePIN analytics dashboard built for NodeOps — token metrics, revenue tracking, Dune & DefiLlama integrations, and network growth analytics |
+| [InsightOps](https://github.com/ayushsingh82/Insight-Ops) | AVS and operator tracking platform built for EigenLayer — TVL, metadata, and operator–AVS relationship mapping via a custom plugin-eigenavs built on the Dune API |
+| [Finbro](https://github.com/ayushsingh82/Finbro) | SLA monitoring dashboard for Filecoin storage providers — tracks deal uptime, WindowPoSt proof submissions, and SLA scores (0-100) with breach alerting |
 
 ### privacy
 
@@ -70,7 +70,6 @@
 |---------|-------------|
 | [SilentBid](https://github.com/ayushsingh82/Silentbid) | Sealed-bid token launches on Uniswap CCA — bids stay private via EIP-712 commitments and Chainlink CRE Confidential HTTP, zero front-running or MEV sniping |
 | [MNT-Stealth](https://github.com/ayushsingh82/MNT-Stealth) | Private transactions on Mantle via ERC-5564 stealth addresses — ECDH one-time keys, ephemeral keys, and unlinkable fund reception |
-| [POL-Stealth](https://github.com/ayushsingh82/POL-Stealth) | Private transactions on Polygon via ERC-5564 stealth addresses — one-time keys, ECDH, and unlinkable fund reception |
 
 ### stablecoin
 
