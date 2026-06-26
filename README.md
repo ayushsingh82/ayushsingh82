@@ -31,16 +31,28 @@
 
 ---
 
-### Projects
+### cross chain
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [StableYield](https://github.com/ayushsingh82/StableYield) | Fully collateralized stablecoin engine with deterministic slashing-based guarantees and optional yield strategies | Solidity, EVM |
-| [IncoPay](https://github.com/ayushsingh82/IncoPay) | Private X402-style payments on Solana using Inco Network — confidential SPL token transfers with gasless one-sign flow | Solana, Inco, TypeScript |
-| [AgentBazaar](https://github.com/ayushsingh82/AgentBazaar) | Decentralized AI agent marketplace powered by ERC-8004 with programmable access control and x402 payments | ERC-8004, X402, Solidity |
-| [POL-Stealth](https://github.com/ayushsingh82/POL-Stealth) | Privacy-preserving payment and stealth transaction system powered by fluid-kEY | Solidity, EVM |
-| [AgentCanvas](https://github.com/ayushsingh82/AgentCanvas) | Visual drag-and-drop orchestration platform for building and deploying AI agents with automated CI/CD and Cloudflare Workers | TypeScript, Cloudflare Workers |
-| [InsightOps](https://github.com/ayushsingh82/Insight-Ops) | Blockchain analytics platform for tracking Operators, AVS, and EigenLayer relationships via Dune API | TypeScript, Dune API |
+| [NeXchange](https://github.com/ayushsingh82/Nexchange) | Intent-based cross-chain execution protocol — swap & stake across Solana, ETH, and NEAR from a single NEAR wallet, no bridging | NEAR, Solana, Ethereum, Intents |
+| [AshWallet](https://github.com/ayushsingh82/AshWallet) | Anonymous multi-chain wallets via NEAR MPC chain signatures — derive unlinkable addresses across 5 chains with no seed phrases | NEAR MPC, Solana, ETH, BTC, Cosmos |
+
+### x402 & agentic payments
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [AgentCanvas](https://github.com/ayushsingh82/AgentCanvas) | No-code visual agent builder — drag-and-drop interface with automatic CI/CD and Cloudflare Workers deployment | Null Shot, Cloudflare Workers, TypeScript |
+| [IncoPay](https://github.com/IncoPay/IncoPay) | Private session-based x402 payments on Solana — sign once, settle many, with confidential SPL transfers and facilitator-paid gas | Solana, Inco, x402, TypeScript |
+| [x402-sessions](https://github.com/x402-sessions) | Session-based x402 payments on Stellar — 1 signature = N settlements with on-chain enforced spending limits via Stellar Asset Contracts | Stellar, SAC, x402 |
+| [AgentBazaar](https://github.com/ayushsingh82/AgentBazaar) | Decentralized AI agent marketplace with x402 micropayments, on-chain ratings, and agent reputation system | ERC-8004, X402, Solidity |
+
+### stablecoin & privacy
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [StableYield](https://github.com/ayushsingh82/StableYield) | Fully collateralized stablecoin engine with yield-optional strategies and deterministic slashing-based enforcement | Solidity, EVM |
+| [POL-Stealth](https://github.com/ayushsingh82/POL-Stealth) | Private transactions on Polygon via ERC-5564 stealth addresses — one-time keys, ECDH, and unlinkable fund reception | Solidity, ERC-5564, Polygon |
 
 ---
 
