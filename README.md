@@ -2,7 +2,7 @@
 <img src="https://tenor.com/en-GB/view/coding-gif-18657810.gif" align="center" style="width: 100%" />
 </div>  
 
-<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
+<h1 align="center">Hi, I'm Ayush Singh</h1>
 <h3 align="center">Blockchain Engineer & Product Designer · Privacy-first Web3 + AI Agent Systems</h3>
 
 - Blockchain engineer & product designer building privacy-first Web3 + AI agent systems across multiple chains
