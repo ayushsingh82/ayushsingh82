@@ -19,9 +19,9 @@
 
 | | Area | Details |
 |---|---|---|
-| ⛓ | **Building Projects** | Working on crypto projects, agentic payments, agent reputation layers, and privacy-focused Web3 systems |
-| ✍️ | **Writing & Content** | Writing threads, blogs, and tutorials on different tech, sharing knowledge and insights with the community |
-| 🔐 | **Learning Cryptography** | Deepening expertise in FHE, ZK, and TEE to build more secure and privacy-preserving applications |
+| <img src="icon-building.svg" width="22" height="22"> | **Building Projects** | Working on crypto projects, agentic payments, agent reputation layers, and privacy-focused Web3 systems |
+| <img src="icon-writing.svg" width="22" height="22"> | **Writing & Content** | Writing threads, blogs, and tutorials on different tech, sharing knowledge and insights with the community |
+| <img src="icon-crypto.svg" width="22" height="22"> | **Learning Cryptography** | Deepening expertise in FHE, ZK, and TEE to build more secure and privacy-preserving applications |
 
 ---
 
