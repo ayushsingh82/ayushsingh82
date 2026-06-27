@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">Blockchain Engineer & Product Designer · Privacy-first Web3 + AI Agent Systems</h3>
 
-- 🔗 Blockchain engineer & product designer building privacy-first Web3 + AI agent systems across multiple chains
-- 🏆 20+ hackathon wins specializing in AI agent reputation (ERC-8004) and verifiable compute
-- 💳 Building agentic payments infrastructure, autonomous agent orchestration, and privacy-focused dApps
-- 🔐 Deep expertise in ZK, FHE, and TEE — engineering privacy into every layer of the stack
-- 🎨 Bridging engineering + design to ship secure, scalable products that make complex crypto/AI intuitive
-- 💬 Ask me about — Smart Contracts, FHE, ZK, TEE, AVS, Intents, X402, AI Agents
-- 📫 Reach me at — ayushsinghmi711@gmail.com
+- Blockchain engineer & product designer building privacy-first Web3 + AI agent systems across multiple chains
+- 20+ hackathon wins specializing in AI agent reputation (ERC-8004) and verifiable compute
+- Building agentic payments infrastructure, autonomous agent orchestration, and privacy-focused dApps
+- Deep expertise in ZK, FHE, and TEE — engineering privacy into every layer of the stack
+- Bridging engineering + design to ship secure, scalable products that make complex crypto/AI intuitive
+- Ask me about — Smart Contracts, FHE, ZK, TEE, AVS, Intents, X402, AI Agents
+- Reach me at — ayushsinghmi711@gmail.com
 
 ---
 
