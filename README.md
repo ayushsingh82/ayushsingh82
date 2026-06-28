@@ -50,6 +50,9 @@
 [![ENS](https://img.shields.io/badge/ENS-5298FF?style=for-the-badge&logoColor=white)](https://ens.domains)
 [![Zama](https://img.shields.io/badge/Zama-FE9000?style=for-the-badge&logoColor=white)](https://zama.ai)
 [![Pyth](https://img.shields.io/badge/Pyth-8B5CF6?style=for-the-badge&logoColor=white)](https://pyth.network)
+[![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)](https://stellar.org)
+[![Cronos](https://img.shields.io/badge/Cronos_EVM-002D74?style=for-the-badge&logoColor=white)](https://cronos.org)
+[![Starknet](https://img.shields.io/badge/Starknet-FF4A1C?style=for-the-badge&logoColor=white)](https://starknet.io)
 
 ---
 
