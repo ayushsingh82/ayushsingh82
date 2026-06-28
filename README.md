@@ -27,7 +27,29 @@
 
 ### Ecosystem Worked With / Built On
 
-[Ethereum](https://ethereum.org) · [Polygon](https://polygon.technology) · [Near](https://near.org) · [Solana](https://solana.com) · [Mantle](https://www.mantle.xyz) · [Base](https://base.org) · [Optimism](https://www.optimism.io) · [Avalanche](https://www.avax.network) · [Inco](https://inco.org) · [Fhenix](https://fhenix.io) · [Educhain](https://www.opencampus.xyz) · [Movement Labs](https://movementlabs.xyz) · [Sui](https://sui.io) · [Aptos](https://aptoslabs.com) · [The Graph](https://thegraph.com) · [Oraichain](https://orai.io) · [Chainlink](https://chain.link) · [Celo](https://celo.org) · [Polkadot](https://polkadot.network) · [Scroll](https://scroll.io) · [ENS](https://ens.domains) · [Zama](https://zama.ai) · [Pyth](https://pyth.network)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org)
+[![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)](https://polygon.technology)
+[![NEAR](https://img.shields.io/badge/NEAR-000000?style=for-the-badge&logo=near&logoColor=white)](https://near.org)
+[![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com)
+[![Mantle](https://img.shields.io/badge/Mantle-000000?style=for-the-badge&logoColor=white)](https://www.mantle.xyz)
+[![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logoColor=white)](https://base.org)
+[![Optimism](https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white)](https://www.optimism.io)
+[![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white)](https://www.avax.network)
+[![Inco](https://img.shields.io/badge/Inco-6B21A8?style=for-the-badge&logoColor=white)](https://inco.org)
+[![Fhenix](https://img.shields.io/badge/Fhenix-1E3A5F?style=for-the-badge&logoColor=white)](https://fhenix.io)
+[![Educhain](https://img.shields.io/badge/Educhain-1D4ED8?style=for-the-badge&logoColor=white)](https://www.opencampus.xyz)
+[![Movement](https://img.shields.io/badge/Movement_Labs-111827?style=for-the-badge&logoColor=white)](https://movementlabs.xyz)
+[![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logoColor=white)](https://sui.io)
+[![Aptos](https://img.shields.io/badge/Aptos-00C9A7?style=for-the-badge&logoColor=white)](https://aptoslabs.com)
+[![The Graph](https://img.shields.io/badge/The_Graph-6747ED?style=for-the-badge&logoColor=white)](https://thegraph.com)
+[![Oraichain](https://img.shields.io/badge/Oraichain-1A1A2E?style=for-the-badge&logoColor=white)](https://orai.io)
+[![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)](https://chain.link)
+[![Celo](https://img.shields.io/badge/Celo-35D07F?style=for-the-badge&logoColor=white)](https://celo.org)
+[![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)](https://polkadot.network)
+[![Scroll](https://img.shields.io/badge/Scroll-FFDEB5?style=for-the-badge&logoColor=black)](https://scroll.io)
+[![ENS](https://img.shields.io/badge/ENS-5298FF?style=for-the-badge&logoColor=white)](https://ens.domains)
+[![Zama](https://img.shields.io/badge/Zama-FE9000?style=for-the-badge&logoColor=white)](https://zama.ai)
+[![Pyth](https://img.shields.io/badge/Pyth-8B5CF6?style=for-the-badge&logoColor=white)](https://pyth.network)
 
 ---
 
