@@ -11,7 +11,7 @@
 - Deep expertise in ZK, FHE, and TEE — engineering privacy into every layer of the stack
 - Bridging engineering + design to ship secure, scalable products that make complex crypto/AI intuitive
 - Ask me about — Smart Contracts, FHE, ZK, TEE, AVS, Intents, X402, AI Agents
-- Reach me at — ayushsinghmi711@gmail.com
+- Reach me at — ayushsinghmi711@gmail.com · [Telegram](https://t.me/Insane_45678)
 
 ---
 
@@ -95,12 +95,21 @@
 |---------|-------------|
 | [SilentBid](https://github.com/ayushsingh82/Silentbid) | Sealed-bid token launches on Uniswap CCA — bids stay private via EIP-712 commitments and Chainlink CRE Confidential HTTP, zero front-running or MEV sniping |
 | [MNT-Stealth](https://github.com/ayushsingh82/MNT-Stealth) | Private transactions on Mantle via ERC-5564 stealth addresses — ECDH one-time keys, ephemeral keys, and unlinkable fund reception |
+| [Confide](https://github.com/ayushsingh82/Confide) | Confidential AI IDE routing every completion through a hardware-isolated TEE on NEAR AI Cloud — code, prompts, and context stay in your boundary, every reply ships with a cryptographic attestation receipt verifiable in 30 seconds |
 
 ### stablecoin
 
 | Project | Description |
 |---------|-------------|
 | [StableYield](https://github.com/ayushsingh82/StableYield) | Fully collateralized stablecoin engine with yield-optional strategies and deterministic slashing-based enforcement |
+| [Rails](https://github.com/ayushsingh82/Rails) | The money-movement stack — research hub and directory mapping companies rebuilding how money moves: stablecoin payment APIs, fiat on/off-ramps, cross-border settlement, synthetic dollars, and neo-banks across five distinct layers · [Live](https://railsmap.vercel.app/) |
+
+### ai saas
+
+| Project | Description |
+|---------|-------------|
+| [BestSearch](https://github.com/ayushsingh82/BestSearch) | AI search visibility & analytics — measures brand presence inside Perplexity, ChatGPT, and Gemini answers with multi-engine leaderboards, consensus scoring, volatility tracking, and Stripe-gated quota enforcement |
+| [BestVideo](https://github.com/ayushsingh82/BestVideo) | AI video editor that turns raw talking-head footage into finished, post-ready video — auto-transcribes, burns in captions, drops face-aware B-roll, and cuts silences via a 4-stage Remotion pipeline |
 
 ---
 
