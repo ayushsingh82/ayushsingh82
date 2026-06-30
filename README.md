@@ -56,40 +56,40 @@
 
 ---
 
-### cross chain
+### Cross-chain
 
 | Project | Description |
 |---------|-------------|
-| [NeXchange](https://github.com/ayushsingh82/Nexchange) | Intent-based cross-chain execution protocol — swap & stake across Solana, ETH, and NEAR from a single NEAR wallet, no bridging |
-| [AshWallet](https://github.com/ayushsingh82/AshWallet) | Anonymous multi-chain wallets via NEAR MPC chain signatures — derive unlinkable addresses across 5 chains with no seed phrases |
+| [NeXchange](https://github.com/ayushsingh82/Nexchange) | Intent-based cross-chain execution protocol — swap & stake across Solana, ETH, and NEAR from a single NEAR wallet, no bridging · [Live](https://nexchange-near.vercel.app/) |
+| [AshWallet](https://github.com/ayushsingh82/AshWallet) | Anonymous multi-chain wallets via NEAR MPC chain signatures — derive unlinkable addresses across 5 chains with no seed phrases · [Live](https://ash-wallet.vercel.app/) |
 
-### x402 & agentic payments
+### X402 & Agentic Payments
 
 | Project | Description |
 |---------|-------------|
-| [AgentCanvas](https://github.com/ayushsingh82/AgentCanvas) | No-code visual agent builder — drag-and-drop interface with automatic CI/CD and Cloudflare Workers deployment |
-| [IncoPay](https://github.com/IncoPay/IncoPay) | Private session-based x402 payments on Solana — sign once, settle many, with confidential SPL transfers and facilitator-paid gas |
-| [x402-sessions](https://github.com/x402-sessions) | Session-based x402 payments on Stellar — 1 signature = N settlements with on-chain enforced spending limits via Stellar Asset Contracts |
-| [AgentBazaar](https://github.com/ayushsingh82/AgentBazaar) | Decentralized AI agent marketplace with x402 micropayments, on-chain ratings, and agent reputation system |
+| [AgentCanvas](https://github.com/ayushsingh82/AgentCanvas) | No-code visual agent builder — drag-and-drop interface with automatic CI/CD and Cloudflare Workers deployment · [Live](https://agentcanvas.vercel.app/) |
+| [IncoPay](https://github.com/IncoPay/IncoPay) | Private session-based x402 payments on Solana — sign once, settle many, with confidential SPL transfers and facilitator-paid gas · [Live](https://inco-pay.vercel.app/) |
+| [x402-sessions](https://github.com/x402-sessions) | Session-based x402 payments on Stellar — 1 signature = N settlements with on-chain enforced spending limits via Stellar Asset Contracts · [Live](https://x402-session-app.vercel.app/) |
+| [AgentBazaar](https://github.com/ayushsingh82/AgentBazaar) | Decentralized AI agent marketplace with x402 micropayments, on-chain ratings, and agent reputation system · [Live](https://agentbazaar.vercel.app/) |
 | [POW](https://github.com/ayushsingh82/POW) | Autonomous research funding agent — backers escrow ETH, EigenAI executes the research program inside TEE, and funds release only when cryptographic proof is submitted |
 
-### mcp
+### MCP ( Model Context Protocol )
 
 | Project | Description |
 |---------|-------------|
-| [BagsMCP](https://github.com/ayushsingh82/BagsMCP) | TypeScript MCP server exposing 22 Bags APIs as model-callable tools — launches, fees, pools, partner analytics, and swap tx builders for Cursor and Claude |
+| [BagsMCP](https://github.com/ayushsingh82/BagsMCP) | TypeScript MCP server exposing 22 Bags APIs as model-callable tools — launches, fees, pools, partner analytics, and swap tx builders for Cursor and Claude · [Live](https://bagsmcp.vercel.app/) |
 | [Pacifica-MCP](https://github.com/ayushsingh82/Pacifica-MCP) | AI-native analytics layer over real-time market data — funding arbitrage, momentum, orderbook imbalance, and composite trade signals via a unified MCP interface |
 
-### analytics
+### Analytics
 
 | Project | Description |
 |---------|-------------|
-| [MarketMind](https://github.com/ayushsingh82/MarketMind) | AI market intelligence engine — ingests SoSoValue + SoDEX signals, scores cross-source disagreement, ranks narrative momentum, and explains market moves with citations |
+| [MarketMind](https://github.com/ayushsingh82/MarketMind) | AI market intelligence engine — ingests SoSoValue + SoDEX signals, scores cross-source disagreement, ranks narrative momentum, and explains market moves with citations · [Live](https://marketmind-soso.vercel.app/) |
 | [DePinsight](https://github.com/ayushsingh82/DePinsight) | Comprehensive DePIN analytics dashboard built for NodeOps — token metrics, revenue tracking, Dune & DefiLlama integrations, and network growth analytics |
 | [InsightOps](https://github.com/ayushsingh82/Insight-Ops) | AVS and operator tracking platform built for EigenLayer — TVL, metadata, and operator–AVS relationship mapping via a custom plugin-eigenavs built on the Dune API |
 | [Finbro](https://github.com/ayushsingh82/Finbro) | SLA monitoring dashboard for Filecoin storage providers — tracks deal uptime, WindowPoSt proof submissions, and SLA scores (0-100) with breach alerting |
 
-### privacy
+### Privacy
 
 | Project | Description |
 |---------|-------------|
@@ -97,14 +97,14 @@
 | [MNT-Stealth](https://github.com/ayushsingh82/MNT-Stealth) | Private transactions on Mantle via ERC-5564 stealth addresses — ECDH one-time keys, ephemeral keys, and unlinkable fund reception |
 | [Confide](https://github.com/ayushsingh82/Confide) | Confidential AI IDE routing every completion through a hardware-isolated TEE on NEAR AI Cloud — code, prompts, and context stay in your boundary, every reply ships with a cryptographic attestation receipt verifiable in 30 seconds |
 
-### stablecoin
+### Stablecoin
 
 | Project | Description |
 |---------|-------------|
 | [StableYield](https://github.com/ayushsingh82/StableYield) | Fully collateralized stablecoin engine with yield-optional strategies and deterministic slashing-based enforcement |
 | [Rails](https://github.com/ayushsingh82/Rails) | The money-movement stack — research hub and directory mapping companies rebuilding how money moves: stablecoin payment APIs, fiat on/off-ramps, cross-border settlement, synthetic dollars, and neo-banks across five distinct layers · [Live](https://railsmap.vercel.app/) |
 
-### ai saas
+### AI SaaS
 
 | Project | Description |
 |---------|-------------|
