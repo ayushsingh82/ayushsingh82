@@ -86,7 +86,7 @@
 |---------|-------------|
 | [MarketMind](https://github.com/ayushsingh82/MarketMind) | AI market intelligence engine — ingests SoSoValue + SoDEX signals, scores cross-source disagreement, ranks narrative momentum, and explains market moves with citations · [Live](https://marketmind-soso.vercel.app/) |
 | [DePinsight](https://github.com/ayushsingh82/DePinsight) | Comprehensive DePIN analytics dashboard built for NodeOps — token metrics, revenue tracking, Dune & DefiLlama integrations, and network growth analytics |
-| [InsightOps](https://github.com/ayushsingh82/Insight-Ops) | AVS and operator tracking platform built for EigenLayer — TVL, metadata, and operator–AVS relationship mapping via a custom plugin-eigenavs built on the Dune API |
+| [InsightOps](https://github.com/ayushsingh82/Insight-Ops) | AVS and operator tracking platform built for EigenLayer — TVL, metadata, and operator–AVS relationship mapping via a custom plugin-eigenavs built on the Dune API · [Live](https://insight-ops.vercel.app/) |
 | [Finbro](https://github.com/ayushsingh82/Finbro) | SLA monitoring dashboard for Filecoin storage providers — tracks deal uptime, WindowPoSt proof submissions, and SLA scores (0-100) with breach alerting |
 
 ### Privacy
