@@ -103,6 +103,7 @@
 |---------|-------------|
 | [StableYield](https://github.com/ayushsingh82/StableYield) | Fully collateralized stablecoin engine with yield-optional strategies and deterministic slashing-based enforcement · [Live](https://stable-yield-blond.vercel.app/) |
 | [Rails](https://github.com/ayushsingh82/Rails) | The money-movement stack — research hub and directory mapping companies rebuilding how money moves: stablecoin payment APIs, fiat on/off-ramps, cross-border settlement, synthetic dollars, and neo-banks across five distinct layers · [Live](https://railsmap.vercel.app/) |
+| [FloatPay](https://github.com/ayushsingh82/FloatPay) | Programmable business spending on Base — companies issue purpose-locked USDC vouchers to employees, with on-chain category/merchant/expiry enforcement and direct merchant payouts via QR · [Live](https://float-pay.vercel.app/) |
 
 ### AI SaaS
 
