@@ -85,23 +85,23 @@
 | Project | Description |
 |---------|-------------|
 | [MarketMind](https://github.com/ayushsingh82/MarketMind) | AI market intelligence engine — ingests SoSoValue + SoDEX signals, scores cross-source disagreement, ranks narrative momentum, and explains market moves with citations · [Live](https://marketmind-soso.vercel.app/) |
-| [DePinsight](https://github.com/ayushsingh82/DePinsight) | Comprehensive DePIN analytics dashboard built for NodeOps — token metrics, revenue tracking, Dune & DefiLlama integrations, and network growth analytics |
+| [DePinsight](https://github.com/ayushsingh82/DePinsight) | Comprehensive DePIN analytics dashboard built for NodeOps — token metrics, revenue tracking, Dune & DefiLlama integrations, and network growth analytics · [Live](https://de-pinsight.vercel.app/) |
 | [InsightOps](https://github.com/ayushsingh82/Insight-Ops) | AVS and operator tracking platform built for EigenLayer — TVL, metadata, and operator–AVS relationship mapping via a custom plugin-eigenavs built on the Dune API · [Live](https://insight-ops.vercel.app/) |
-| [Finbro](https://github.com/ayushsingh82/Finbro) | SLA monitoring dashboard for Filecoin storage providers — tracks deal uptime, WindowPoSt proof submissions, and SLA scores (0-100) with breach alerting |
+| [Finbro](https://github.com/ayushsingh82/Finbro) | SLA monitoring dashboard for Filecoin storage providers — tracks deal uptime, WindowPoSt proof submissions, and SLA scores (0-100) with breach alerting · [Live](https://finbro-sla.vercel.app/sla) |
 
 ### Privacy
 
 | Project | Description |
 |---------|-------------|
-| [SilentBid](https://github.com/ayushsingh82/Silentbid) | Sealed-bid token launches on Uniswap CCA — bids stay private via EIP-712 commitments and Chainlink CRE Confidential HTTP, zero front-running or MEV sniping |
-| [MNT-Stealth](https://github.com/ayushsingh82/MNT-Stealth) | Private transactions on Mantle via ERC-5564 stealth addresses — ECDH one-time keys, ephemeral keys, and unlinkable fund reception |
-| [Confide](https://github.com/ayushsingh82/Confide) | Confidential AI IDE routing every completion through a hardware-isolated TEE on NEAR AI Cloud — code, prompts, and context stay in your boundary, every reply ships with a cryptographic attestation receipt verifiable in 30 seconds |
+| [SilentBid](https://github.com/ayushsingh82/Silentbid) | Sealed-bid token launches on Uniswap CCA — bids stay private via EIP-712 commitments and Chainlink CRE Confidential HTTP, zero front-running or MEV sniping · [Live](https://silentbid.vercel.app/) |
+| [MNT-Stealth](https://github.com/ayushsingh82/MNT-Stealth) | Private transactions on Mantle via ERC-5564 stealth addresses — ECDH one-time keys, ephemeral keys, and unlinkable fund reception · [Live](https://mnt-stealth.vercel.app/) |
+| [Confide](https://github.com/ayushsingh82/Confide) | Confidential AI IDE routing every completion through a hardware-isolated TEE on NEAR AI Cloud — code, prompts, and context stay in your boundary, every reply ships with a cryptographic attestation receipt verifiable in 30 seconds · [Live](https://confide-ide.vercel.app/) |
 
 ### Stablecoin
 
 | Project | Description |
 |---------|-------------|
-| [StableYield](https://github.com/ayushsingh82/StableYield) | Fully collateralized stablecoin engine with yield-optional strategies and deterministic slashing-based enforcement |
+| [StableYield](https://github.com/ayushsingh82/StableYield) | Fully collateralized stablecoin engine with yield-optional strategies and deterministic slashing-based enforcement · [Live](https://stable-yield-blond.vercel.app/) |
 | [Rails](https://github.com/ayushsingh82/Rails) | The money-movement stack — research hub and directory mapping companies rebuilding how money moves: stablecoin payment APIs, fiat on/off-ramps, cross-border settlement, synthetic dollars, and neo-banks across five distinct layers · [Live](https://railsmap.vercel.app/) |
 
 ### AI SaaS
