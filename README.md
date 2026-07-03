@@ -96,6 +96,7 @@
 | [SilentBid](https://github.com/ayushsingh82/Silentbid) | Sealed-bid token launches on Uniswap CCA — bids stay private via EIP-712 commitments and Chainlink CRE Confidential HTTP, zero front-running or MEV sniping · [Live](https://silentbid.vercel.app/) |
 | [MNT-Stealth](https://github.com/ayushsingh82/MNT-Stealth) | Private transactions on Mantle via ERC-5564 stealth addresses — ECDH one-time keys, ephemeral keys, and unlinkable fund reception · [Live](https://mnt-stealth.vercel.app/) |
 | [Confide](https://github.com/ayushsingh82/Confide) | Confidential AI IDE routing every completion through a hardware-isolated TEE on NEAR AI Cloud — code, prompts, and context stay in your boundary, every reply ships with a cryptographic attestation receipt verifiable in 30 seconds · [Live](https://confide-ide.vercel.app/) |
+| [ZeroGate](https://github.com/ayushsingh82/ZeroGate) | Private x402 payments on Stellar — USDC routes to a ShieldedPool contract, not the merchant, so the merchant never appears on-chain and the server only receives a commitment hash; access is proven with a Groth16 ZK proof, keeping wallet and merchant hidden with no trace · [Live](https://zerogate-stellar.vercel.app/) |
 
 ### Stablecoin
 
