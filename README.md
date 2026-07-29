@@ -106,12 +106,13 @@
 | [Rails](https://github.com/ayushsingh82/Rails) | The money-movement stack — research hub and directory mapping companies rebuilding how money moves: stablecoin payment APIs, fiat on/off-ramps, cross-border settlement, synthetic dollars, and neo-banks across five distinct layers · [Live](https://railsmap.vercel.app/) |
 | [FloatPay](https://github.com/ayushsingh82/FloatPay) | Programmable business spending on Base — companies issue purpose-locked USDC vouchers to employees, with on-chain category/merchant/expiry enforcement and direct merchant payouts via QR · [Live](https://float-pay.vercel.app/) |
 
-### AI SaaS
+### AI Consumer Applications
 
 | Project | Description |
 |---------|-------------|
 | [BestSearch](https://github.com/ayushsingh82/BestSearch) | AI search visibility & analytics — measures brand presence inside Perplexity, ChatGPT, and Gemini answers with multi-engine leaderboards, consensus scoring, volatility tracking, and Stripe-gated quota enforcement . [Live](https://bestsearch.vercel.app/)  |
 | [BestVideo](https://github.com/ayushsingh82/BestVideo) | AI video editor that turns raw talking-head footage into finished, post-ready video — auto-transcribes, burns in captions, drops face-aware B-roll, and cuts silences via a 4-stage Remotion pipeline |
+| [Supmem](https://github.com/ayushsingh82/supmem) | Graph-native memory infrastructure for AI agents — persistent, entity-resolved, retrievable memory across sessions and deployments, self-hosted on Neo4j for full control over retrieval and ranking · [Live](https://supmem.vercel.app/) |
 
 ---
 
