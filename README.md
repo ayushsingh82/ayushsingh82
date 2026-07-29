@@ -111,6 +111,7 @@
 | Project | Description |
 |---------|-------------|
 | [BestSearch](https://github.com/ayushsingh82/BestSearch) | AI search visibility & analytics — measures brand presence inside Perplexity, ChatGPT, and Gemini answers with multi-engine leaderboards, consensus scoring, volatility tracking, and Stripe-gated quota enforcement |
+[Live](https://bestsearch.vercel.app/)) |
 | [BestVideo](https://github.com/ayushsingh82/BestVideo) | AI video editor that turns raw talking-head footage into finished, post-ready video — auto-transcribes, burns in captions, drops face-aware B-roll, and cuts silences via a 4-stage Remotion pipeline |
 
 ---
