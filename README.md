@@ -11,7 +11,13 @@
 - Deep expertise in ZK, FHE, and TEE — engineering privacy into every layer of the stack
 - Bridging engineering + design to ship secure, scalable products that make complex crypto/AI intuitive
 - Ask me about — Smart Contracts, FHE, ZK, TEE, AVS, Intents, X402, AI Agents
-- Reach me at — ayushsinghmi711@gmail.com · [Telegram](https://t.me/Insane_45678)
+
+### Connect with me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayush-singh-02b978248/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/eth_ay32)
+[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/Insane_45678)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:ayushsinghmi711@gmail.com)
 
 ---
 
