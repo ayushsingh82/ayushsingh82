@@ -14,10 +14,10 @@
 
 ### Connect with me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayush-singh-02b978248/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/eth_ay32)
-[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/Insane_45678)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:ayushsinghmi711@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-singh-02b978248/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/eth_ay32)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Insane_45678)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsinghmi711@gmail.com)
 
 ---
 
